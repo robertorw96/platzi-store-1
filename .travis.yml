@@ -10,6 +10,7 @@ git:
 script:
   - yarn build
 notifications:
+  slack: robtesttravis:VeqfcT6OlTJBhzCIZGbVkfSb
   email:
     recipients:
       - roberto.oro.rowan@gmail.com
